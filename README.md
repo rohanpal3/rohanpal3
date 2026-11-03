@@ -19,15 +19,18 @@ side, which I now pair with analytics.
 
 ---
 
-### 📊 Featured project
+### 📊 Featured projects
 
 **[shopify-ecommerce-analysis](https://github.com/rohanpal3/shopify-ecommerce-analysis)**
 — SQL + Python analysis of **64,000 real orders** from a D2C brand I work with. Cohort
-retention, repeat-purchase rate, AOV by channel, and contribution margin by SKU.
-Surfaced a hidden retention problem: a viral growth spike acquired customers who
-retained ~3× worse than earlier cohorts. *PostgreSQL · pandas · cohort analysis · an
-anonymising ETL so the brand's real figures stay private.*
+retention, repeat-purchase rate, AOV by channel, and contribution margin by SKU. Surfaced
+a hidden retention problem: a viral growth spike acquired customers who retained ~3× worse
+than earlier cohorts. *PostgreSQL · pandas · cohort analysis.*
 
+**[dtc-excel-dashboard](https://github.com/rohanpal3/dtc-excel-dashboard)**
+— Interactive Excel dashboard on the same 64k orders: revenue trend, channel performance,
+product margin, and device split, with live KPI cards. The reporting layer on top of the
+SQL analysis. *Excel · data visualization.*
 ---
 
 ### 🎯 Interested in
