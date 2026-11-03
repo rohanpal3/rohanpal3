@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Rohan 👋
 
-<!--
-**rohanpal3/rohanpal3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Mechanical Engineering student at **DTU, New Delhi**, moving toward **business
+analysis and data analytics**. I've built and run several e-commerce and marketing
+ventures, and I currently work as a **creative strategist** on D2C brands — so I like
+analysis that connects to real business outcomes: retention, unit economics, and what
+actually drives growth, not just charts.
 
-Here are some ideas to get you started:
+🔭 **Currently:** building data-analytics projects on real business datasets, alongside
+creative-strategy work on live D2C brands.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Working with:** SQL (PostgreSQL) · Python (pandas, matplotlib) · Excel · Power BI ·
+data cleaning & ETL · cohort analysis
+
+🧩 **Background:** founded a digital-marketing agency (VEWELO), co-founded an e-commerce
+fashion brand (Richmond Apparel), and worked on beauty/e-commerce brands — so I
+understand customer acquisition, positioning, and business economics from the operator's
+side, which I now pair with analytics.
+
+---
+
+### 📊 Featured project
+
+**[shopify-ecommerce-analysis](https://github.com/rohanpal3/shopify-ecommerce-analysis)**
+— SQL + Python analysis of **64,000 real orders** from a D2C brand I work with. Cohort
+retention, repeat-purchase rate, AOV by channel, and contribution margin by SKU.
+Surfaced a hidden retention problem: a viral growth spike acquired customers who
+retained ~3× worse than earlier cohorts. *PostgreSQL · pandas · cohort analysis · an
+anonymising ETL so the brand's real figures stay private.*
+
+---
+
+### 🎯 Interested in
+Data analytics · business analysis · growth & marketing strategy — roles at the
+intersection of business, analytics, and strategy.
+
+### 🤝 Connect
+- 📫 rohanpal0306@gmail.com
+- 💼 https://www.linkedin.com/in/rohan-pal-67b67a448/
+
+<sub>Open to data analyst / business analyst opportunities.</sub>
